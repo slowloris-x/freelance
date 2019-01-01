@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 16, 2018, 12:29:50 AM
+    Author     : redonesinder
+*/
+
+.loginpanel{
+    border: 1px solid #eee;
+    padding: 40px;
+    box-shadow: 0 1px 6px rgba(57,73,76,0.35)
+    
+}
+.loginpanelfooter{
+    background: #eee
+}
